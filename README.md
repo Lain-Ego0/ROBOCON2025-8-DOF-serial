@@ -1,1 +1,3 @@
 # ROBOCON-2025-8-DOF-serial
+
+![image-20260120184003325](./assets/image-20260120184003325.png)
